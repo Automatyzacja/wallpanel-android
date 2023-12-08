@@ -1,0 +1,5 @@
+https://github.com/TheTimeWalker/wallpanel-android.git{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
